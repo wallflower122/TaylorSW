@@ -1,0 +1,51 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/710069.png");
+    background-color: #000000;
+   }
+.main{
+    position: absolute;
+width: 683px;
+height: 812.81px;
+left: 386px;
+top: 78px;
+}
+.spotify{
+    position: absolute;
+width: 100px;
+height: 100px;
+left: 378px;
+top: 922px;
+
+}
+.instagram{
+    
+position: absolute;
+width: 100px;
+height: 100px;
+left: 512px;
+top: 922px;
+}
+
+.twitter{
+    position: absolute;
+width: 100px;
+height: 100px;
+left: 646px;
+top: 922px;
+}
+
+.tiktok{
+    position: absolute;
+width: 100px;
+height: 100px;
+left: 780px;
+top: 922px;
+}
+
+.apple{
+    position: absolute;
+width: 100px;
+height: 100px;
+left: 914px;
+top: 922px;
+}
